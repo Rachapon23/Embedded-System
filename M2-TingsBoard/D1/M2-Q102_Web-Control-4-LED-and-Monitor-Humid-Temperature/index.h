@@ -64,8 +64,8 @@ State of [LED1, LED2, LED3, LED4] is >> <span id="LEDState">NA, NA, NA, NA</span
  } 
  document.addEventListener("DOMContentLoaded", ready);
 </script> 
-<br><a href="https://www.facebook.com/profile.php?id=100007567420275">By 
-Rachapon Pongkittisak</a> 
+<br><a href="https://www.facebook.com/profile.php?id=your-id">By 
+Me</a> 
 </body> 
 </html> 
 )=====";
