@@ -5,4 +5,4 @@
     </embed>
 </object>
 
-<embed src="Embedded-System/Lab4_Std.pdf" type="application/pdf">
+<embed src="/Lab4_Std.pdf" type="application/pdf">
