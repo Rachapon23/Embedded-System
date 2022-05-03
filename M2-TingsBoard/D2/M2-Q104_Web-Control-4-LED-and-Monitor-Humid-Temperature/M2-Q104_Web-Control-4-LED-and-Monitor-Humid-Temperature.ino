@@ -2,10 +2,10 @@
 #include <WiFi.h>
 #include <ThingsBoard.h>
 #include "SHTC3.h"
-#define WIFI_NAME "sontaya7"
-#define WIFI_PASS "123456789"
+#define WIFI_NAME "your-wifi-name"
+#define WIFI_PASS "your-wifi-pass"
 #define SERVER "demo.thingsboard.io"
-#define DEVICE_TOKEN "Fdg5BpOMQj2nq0OuHUid"
+#define DEVICE_TOKEN "your-device-token"
 
 WiFiClient esp32Client;
 int loopDaly = 20;
