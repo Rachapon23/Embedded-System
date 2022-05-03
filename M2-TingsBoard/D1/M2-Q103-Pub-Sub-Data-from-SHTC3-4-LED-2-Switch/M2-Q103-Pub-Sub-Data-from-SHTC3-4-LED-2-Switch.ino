@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 #include <Wire.h>
 #include "SHTC3.h"
-#define WIFI_NAME "sontaya7"
-#define WIFI_PASS "123456789"
+#define WIFI_NAME "your-wifi-name"
+#define WIFI_PASS "your-wifi-pass"
 #define MQTT_SERVER "mqtt.eclipseprojects.io"
 #define MQTT_PORT 1883
 #define TOPIC1 "LED1_SxWlBVzDd2ufJxmIWngGzwl9MSD"
