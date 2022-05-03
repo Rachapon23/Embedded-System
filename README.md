@@ -4,3 +4,4 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+[Lab4_Std.pdf](https://github.com/Rachapon23/Embedded-System/files/8609160/Lab4_Std.pdf)
