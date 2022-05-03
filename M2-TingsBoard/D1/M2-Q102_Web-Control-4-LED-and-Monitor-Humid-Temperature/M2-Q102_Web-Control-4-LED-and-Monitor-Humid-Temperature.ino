@@ -4,8 +4,8 @@
 #include <Wire.h>
 #include "SHTC3.h"
 #include "index.h" //Our HTML webpage contents with javascripts 
-#define WIFI_NAME "sontaya7"
-#define WIFI_PASS "123456789"
+#define WIFI_NAME "your-wifi-name"
+#define WIFI_PASS "your-wifi-pass"
 
 WebServer server(80); //Server on port 80
 SHTC3 sht(Wire);
