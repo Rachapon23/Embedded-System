@@ -4,11 +4,11 @@
 #include <TridentTD_LineNotify.h>
 #include <BlynkSimpleEsp32.h>
 #include "SHTC3.h"
-#define WIFI_NAME "sontaya7"
-#define WIFI_PASS "123456789"
-#define BLYNK_TOKEN "d-Z7snVv4XJWVQPhfESjSxH3qvysiX-H"
-#define LINE_TOKEN "wN2YZJEKTrT0Ct0lBKk8NgC1bVMJUzrdJuj4vi5Vd1r"
-#define GSS_TOKEN "AKfycbwhNeCHX9rgPISmw9gcNBbivFyQraGIMKTHgE_LnLDKccOx_60Jk308nG4s3f2zNSyV"
+#define WIFI_NAME "your-wifi-name"
+#define WIFI_PASS "your-wifi-pass"
+#define BLYNK_TOKEN "your-blynk-token"
+#define LINE_TOKEN "your-line-token"
+#define GSS_TOKEN "your-GSS-token"
 #define GSS_SHEET "Sensor_Data"
 #define HOST "script.google.com"
 #define HOST_PORT 443
