@@ -5,3 +5,4 @@
     </embed>
 </object>
 [Lab4_Std.pdf](https://github.com/Rachapon23/Embedded-System/files/8609160/Lab4_Std.pdf)
+[embed]https://github.com/Rachapon23/Embedded-System/blob/main/Lab4_Std.pdf[/embed]
