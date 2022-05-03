@@ -2,10 +2,10 @@
 #include <Wire.h>
 #include <ThingsBoard.h>
 #include "SHTC3.h"
-#define WIFI_NAME "sontaya7"
-#define WIFI_PASS "123456789"
+#define WIFI_NAME "your-wifi-name"
+#define WIFI_PASS "your-wifi-pass"
 #define SERVER "demo.thingsboard.io"
-#define DEVICE_TOKEN "dRUU9kcGQUpt4DLlj41b"
+#define DEVICE_TOKEN "your-device-token"
 #define COUNT_OF(x) ((sizeof(x)/sizeof(0[x])) / ((size_t)(!(sizeof(x) % sizeof(0[x]))))) 
 #define LED_BLINK 2
 bool LED_Blink_Status = 0;
