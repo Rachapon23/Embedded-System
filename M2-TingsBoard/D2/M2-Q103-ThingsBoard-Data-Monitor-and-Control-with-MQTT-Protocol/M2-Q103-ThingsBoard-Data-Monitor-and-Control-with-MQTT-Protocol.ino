@@ -3,11 +3,11 @@
 #include <PubSubClient.h>
 #include <ArduinoJson.h>
 #include "SHTC3.h"
-#define WIFI_NAME "sontaya7"
-#define WIFI_PASS "123456789"
+#define WIFI_NAME "your-wifi-name"
+#define WIFI_PASS "your-wifi-pass"
 #define SERVER "demo.thingsboard.io"
 #define DEVICE_NAME "M2-Q103"
-#define DEVICE_TOKEN "mQAh4pixVTYEoN9M8OCX"
+#define DEVICE_TOKEN "your-wifi-token"
 
 SHTC3 sht(Wire);
 WiFiClient esp32Client;
