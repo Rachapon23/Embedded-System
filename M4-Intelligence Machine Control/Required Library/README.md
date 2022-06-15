@@ -3,13 +3,21 @@ In report inclued some library that must download and install to use in programm
 
 # Using of Library
 - esp32ModbusTCP 
+
 use for ESP32 to read data form slave
+
 *requie AsyncTCP
+
 - eModbus
+
 use for ESP32 to read and write data form/to slave
+
 - AsyncTCP
+
 to use esp32ModbusTCP this library must install 
+
 - ArduinoModbusSlaveTCP
+
 use for ESP32 behave like slave
 
 # External Reference for Library
