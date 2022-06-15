@@ -26,4 +26,4 @@ In report inclued some library that must download and install to use in programm
 - AsyncTCP: https://github.com/me-no-dev/AsyncTCP
 - ArduinoModbusSlaveTCP: https://github.com/yaacov/ArduinoModbusSlaveTCP
 
-*some library that avaliable to download on this Required is the old version because newer version library not compatible with code
+*some library that avaliable to download on this Required Library is the old version because newer version library not compatible with code
