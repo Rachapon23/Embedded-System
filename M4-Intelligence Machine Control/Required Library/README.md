@@ -4,7 +4,7 @@ In report inclued some library that must download and install to use in programm
 # Using of Library
 - esp32ModbusTCP 
 use for ESP32 to read data form slave
-* requie AsyncTCP
+*requie AsyncTCP
 - eModbus
 use for ESP32 to read and write data form/to slave
 - AsyncTCP
@@ -18,4 +18,4 @@ use for ESP32 behave like slave
 - AsyncTCP: https://github.com/me-no-dev/AsyncTCP
 - ArduinoModbusSlaveTCP: https://github.com/yaacov/ArduinoModbusSlaveTCP
 
-* some library that avaliable to download on this Required is the old version because newer version library not compatible with code
+*some library that avaliable to download on this Required is the old version because newer version library not compatible with code
