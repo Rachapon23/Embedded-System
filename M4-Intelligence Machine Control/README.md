@@ -1,6 +1,6 @@
 # Module4-Intelligence Machine Control
-Using Modbos with IoT
+Using Modbos RTU/TCP with IoT
 
 *No PLC included
 
-*Source coming soon
+*Source code coming soon
