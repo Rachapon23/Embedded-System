@@ -1,5 +1,5 @@
 # Embedded-System
-All Report only avaliable in Thai langage <p>
+All Report only avaliable in Thai languge <p>
 There are currently no plans to translate into English
 
 ## Module 1
